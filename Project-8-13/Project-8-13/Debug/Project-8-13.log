@@ -1,0 +1,3 @@
+﻿  test.c
+D:\代码\Project-8-13\Project-8-13\test.c(56): warning C4715:  “searchInsert”: 不是所有的控件路径都返回值
+  Project-8-13.vcxproj -> D:\代码\Project-8-13\Debug\Project-8-13.exe
