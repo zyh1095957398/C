@@ -1,0 +1,5 @@
+﻿  test.c
+D:\代码\8-23\8-23\test.c(167,18): warning C4101:  “g”: 未引用的局部变量
+D:\代码\8-23\8-23\test.c(120): warning C4716:  “sql”: 必须返回一个值
+D:\代码\8-23\8-23\test.c(138): warning C4716:  “search_pos”: 必须返回一个值
+  8-23.vcxproj -> D:\代码\8-23\Debug\8-23.exe
