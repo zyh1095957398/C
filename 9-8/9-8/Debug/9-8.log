@@ -1,0 +1,7 @@
+﻿  test.c
+D:\代码\9-8\9-8\seqlist.h(53,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\代码\9-8\9-8\seqlist.h(67,20): warning C4098:  “SeqListPopByBack”:“void”函数返回值
+D:\代码\9-8\9-8\seqlist.h(78,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\代码\9-8\9-8\seqlist.h(87,21): warning C4018:  “>=”: 有符号/无符号不匹配
+D:\代码\9-8\9-8\test.c(57,10): warning C4477:  “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  9-8.vcxproj -> D:\代码\9-8\Debug\9-8.exe
